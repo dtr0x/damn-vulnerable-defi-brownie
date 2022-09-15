@@ -1,9 +1,8 @@
 networks:
-  default: rinkeby-fork
+  default: development
 compiler:
   solc:
     remappings:
       - "@openzeppelin/contracts=OpenZeppelin/openzeppelin-contracts@4.2.0/contracts"
       - "@openzeppelin/contracts-upgradeable=OpenZeppelin/openzeppelin-contracts-upgradeable@4.2.0/contracts"
       - "@gnosis.pm/safe-contracts=safe-global/safe-contracts@1.3.0"
-        # - "@uniswap/v2-periphery=Uniswap/v2-periphery@1.0.0-beta.0"
