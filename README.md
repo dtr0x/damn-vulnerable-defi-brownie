@@ -4,7 +4,7 @@ Solutions to [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz) challeng
 ## Setup
 ```
 brownie pm install OpenZeppelin/openzeppelin-contracts@4.2.0
-brownie pm install OpenZeppelin/openzeppelin-contracts-upgradeable@4.2.0
+brownie pm install OpenZeppelin/openzeppelin-contracts-upgradeable@4.5.0
 brownie pm install safe-global/safe-contracts@1.3.0
 ```
 
