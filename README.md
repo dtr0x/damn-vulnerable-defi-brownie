@@ -15,7 +15,8 @@ brownie run <ChallengeName>
 ```
 where `<ChallengeName>` is any of
 ```
-Unstoppable, NaiveReceiver, Truster, SideEntrance, TheRewarder, Selfie, Compromised
+Unstoppable, NaiveReceiver, Truster, SideEntrance, TheRewarder, Selfie, 
+Compromised, Puppet, PuppetV2, FreeRider, Backdoor, Climber
 ```
 
 
