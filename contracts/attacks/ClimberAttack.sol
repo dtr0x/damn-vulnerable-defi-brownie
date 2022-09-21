@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-import './ClimberTimelock.sol';
+import '../climber/ClimberTimelock.sol';
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract TimelockAttack {
